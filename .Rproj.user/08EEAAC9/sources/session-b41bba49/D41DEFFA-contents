@@ -10,10 +10,12 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: cv.qmd
+        text: CV
     right:
       - icon: linkedin
-        href: https://www.linkedin.com/in/josh-hardesty-6aba092ba/  
-        # optional link to GitHub
+        href: https://www.linkedin.com/in/josh-hardesty/
+
 
 format:
   html:

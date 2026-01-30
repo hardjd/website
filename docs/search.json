@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Hi, I’m Josh Hardesty, a class of 2025 graduate with a B.S. in Biology from SUNY Oneonta.\nMy academic interests include fish and wildlife ecology, genetics and evolution, and data analysis using R and GIS.\nCheck out some of my work!"
+    "text": "Your browser does not support PDFs. You can download the PDF here."
+  },
+  {
+    "objectID": "cv.html#my-cv",
+    "href": "cv.html#my-cv",
+    "title": "CV",
+    "section": "",
+    "text": "Your browser does not support PDFs. You can download the PDF here."
   },
   {
     "objectID": "projects.html",
@@ -40,5 +47,12 @@
     "title": "Projects",
     "section": "Interactive Projects",
     "text": "Interactive Projects\n\nOtsego County Hemlock Woolly Adelgid\nArcGIS Dashboard\n\n\n\nPreview\n\n\nView Full Dashboard"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Josh Hardesty, a class of 2025 graduate with a B.S. in Biology from SUNY Oneonta.\nMy academic interests include fish and wildlife ecology, genetics and evolution, and data analysis using R and GIS.\nCheck out some of my work!\nContact me at joshuahardesty03@gmail.com or at (607) 423-8255"
   }
 ]
