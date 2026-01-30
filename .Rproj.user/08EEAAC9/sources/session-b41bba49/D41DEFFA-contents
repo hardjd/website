@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs   # this is where the site gets built
+
+website:
+  title: "My Project Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/josh-hardesty-6aba092ba/  
+        # optional link to GitHub
+
+format:
+  html:
+    theme: cosmo   # clean, professional
+    toc: false
+
+
+

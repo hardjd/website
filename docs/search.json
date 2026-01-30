@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Josh Hardesty, a class of 2025 graduate with a B.S. in Biology from SUNY Oneonta.\nMy academic interests include fish and wildlife ecology, genetics and evolution, and data analysis using R and GIS.\nCheck out some of my work!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Journal of Open Source Software, 2025"
+  },
+  {
+    "objectID": "projects.html#anadrofish-anadromous-fish-population-responses-to-dams",
+    "href": "projects.html#anadrofish-anadromous-fish-population-responses-to-dams",
+    "title": "Projects",
+    "section": "",
+    "text": "Journal of Open Source Software, 2025"
+  },
+  {
+    "objectID": "projects.html#age-and-growth-relationships-in-species-of-lepomis-in-otsego-lake",
+    "href": "projects.html#age-and-growth-relationships-in-species-of-lepomis-in-otsego-lake",
+    "title": "Projects",
+    "section": "Age and growth relationships in species of Lepomis in Otsego Lake",
+    "text": "Age and growth relationships in species of Lepomis in Otsego Lake\nSUNY Oneonta Biological Field Station Annual Report, 2024."
+  },
+  {
+    "objectID": "projects.html#density-dependent-growth-in-salmonids",
+    "href": "projects.html#density-dependent-growth-in-salmonids",
+    "title": "Projects",
+    "section": "Density-Dependent Growth in Salmonids",
+    "text": "Density-Dependent Growth in Salmonids\nCumulative Project, Quantitative Biology, 2023."
+  },
+  {
+    "objectID": "projects.html#interactive-projects",
+    "href": "projects.html#interactive-projects",
+    "title": "Projects",
+    "section": "Interactive Projects",
+    "text": "Interactive Projects\n\nOtsego County Hemlock Woolly Adelgid\nArcGIS Dashboard\n\n\n\nPreview\n\n\nView Full Dashboard"
+  }
+]
