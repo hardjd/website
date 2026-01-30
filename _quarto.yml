@@ -18,7 +18,7 @@ website:
 
 format:
   html:
-    theme: cosmo   # clean, professional
+    theme: architect   # clean, professional
     toc: false
 
 
