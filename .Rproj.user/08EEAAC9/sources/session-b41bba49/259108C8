@@ -3,7 +3,7 @@
     "path": "~/Desktop/website/website/cv.qmd",
     "project_path": "cv.qmd",
     "type": "quarto_markdown",
-    "hash": "2661629601",
+    "hash": "3893841090",
     "contents": "",
     "dirty": false,
     "created": 1769786895026.0,
@@ -14,15 +14,15 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,82",
+        "cursorPosition": "7,21",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1769787172,
+    "lastKnownWriteTime": 1769801426,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1769787172910,
+    "last_content_update": 1769801426744,
     "read_only": false,
     "read_only_alternatives": []
 }
