@@ -10,4 +10,4 @@ Check out some of my work!
 
 Contact me at joshuahardesty03\@gmail.com or at (607) 423-8255
 
-![](images/paddle.png)
+![](images/paddle.png){width="1600"}
