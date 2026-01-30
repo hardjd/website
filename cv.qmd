@@ -3,9 +3,16 @@ title: "CV"
 format: html
 ---
 
-## My CV
+# Curriculum Vitae
 
-<object data="pdfs/cv.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser does not support PDFs. You can
-  <a href="pdfs/resume.pdf">download the PDF here</a>.</p>
-</object>
+Welcome! You can view my CV below or download it directly.
+
+<!-- PDF Embed -->
+
+::: {style="width: 100%; height: 900px; border: 1px solid #ccc; margin-bottom: 1em;"}
+<iframe src="docs/pdfs/cv.pdf" width="100%" height="100%"> Your browser does not support PDFs. You can download it here: <a href="docs/pdfs/cv.pdf" target="_blank">Download CV</a> </iframe>
+:::
+
+<!-- Download button -->
+
+[Download CV (PDF)](docs/pdfs/cv.pdf){.btn .btn-primary}
