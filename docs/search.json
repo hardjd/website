@@ -4,14 +4,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Your browser does not support PDFs. You can download the PDF here."
-  },
-  {
-    "objectID": "cv.html#my-cv",
-    "href": "cv.html#my-cv",
-    "title": "CV",
-    "section": "",
-    "text": "Your browser does not support PDFs. You can download the PDF here."
+    "text": "Curriculum Vitae\nYou can view my CV below or download it directly.\n\n\n\n&lt;p&gt;Your browser does not support PDFs. You can download it here: &lt;a href=\"pdfs/CV.pdf\" target=\"_blank\"&gt;Download CV&lt;/a&gt;&lt;/p&gt;\n\n\n\nDownload CV (PDF)"
   },
   {
     "objectID": "projects.html",
@@ -46,7 +39,7 @@
     "href": "projects.html#interactive-projects",
     "title": "Projects",
     "section": "Interactive Projects",
-    "text": "Interactive Projects\n\nOtsego County Hemlock Woolly Adelgid\nArcGIS Dashboard\n\n\nView Full Dashboard"
+    "text": "Interactive Projects\n\nOtsego County Hemlock Woolly Adelgid\nArcGIS Dashboard\n\nView Full Dashboard"
   },
   {
     "objectID": "index.html",
