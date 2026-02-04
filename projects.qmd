@@ -38,8 +38,8 @@ Cumulative Project, Quantitative Biology, 2023.
 
 ### Otsego County Hemlock Woolly Adelgid
 
-![Dashboard preview](docs/images/dashboard.png)
-
 ![](images/dashboard.png){style="display:none;"}
+
+![Dashboard preview](images/dashboard.png)
 
 [View Full Dashboard](https://sunyoneonta.maps.arcgis.com/apps/dashboards/03c7f210936a425f8bf2d0358774d81c)
